@@ -3,6 +3,6 @@
 int main() {
     char string;
     scanf("%c", &string);
-    printf("YOU entered: %c\n", string);
+    printf("You entered: %c\n", string);
     return 0;
 }
