@@ -7,11 +7,11 @@ int main(){
 
     if(a>b)
     {
-        printf("True");
+        printf("True\n");
     }
     else(b>a);
     {
-        printf("False");
+        printf("False\n");
     }
     return 0;
 }
